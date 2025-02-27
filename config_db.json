@@ -1,1 +1,1 @@
-{"dbname": "postgres", "user": "postgres_db", "password": "Sahara98", "host": "database-1.c1oco6yqcv7u.eu-north-1.rds.amazonaws.com", "port": "5432"}
+{"dbname": "postgres", "user": "Add_your_user_Name", "password": "Add_your_password", "host": "Add_end_point", "port": "5432"}
