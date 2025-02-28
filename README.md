@@ -24,7 +24,12 @@ Create a Cow´s Foot Notation (Information Engineering Notation) a method that r
 ![image](https://github.com/user-attachments/assets/35c18234-9774-466c-a8d0-87506c3bd6c4)
 
 Finally, I **performed data analysis** using **Google Analytics** to answer the following questions:  
-- **How many deals became customers?**  
+- **How many deals became customers?**
+
+![image](https://github.com/user-attachments/assets/2ee3341b-34d1-46bd-9ee2-b73c7a29806e)
+![image](https://github.com/user-attachments/assets/66dc8f8a-b86a-4ca6-a2ac-fc7bd7459221)
+
+
 - **Which brands are most of the customers interested in?**
   - ![graph_visualiser-1740709397977](https://github.com/user-attachments/assets/a4424739-09d7-4dbd-a26f-ee8a0a46f24b) 
 - **What are the top 5 selling brands for each province?**  
