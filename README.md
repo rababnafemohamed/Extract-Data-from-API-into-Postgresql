@@ -16,6 +16,8 @@ I removed **duplicate values** but decided **not to remove all missing values**,
 
 Create a Cow´s Foot Notation (Information Engineering Notation) a method that represent complex database structures in a clear and straightforward manner. 
 - Formed one to too many relationship between Cars table and KMS_Cloud
+- ![graph_visualiser-1740709397977](https://github.com/user-attachments/assets/a4424739-09d7-4dbd-a26f-ee8a0a46f24b)
+
 - Formed many any to many relationship between Cars and Mileage_logs
 - one to many relationship between Mileage_logs and Internal_Deals
 ![image](https://github.com/user-attachments/assets/8d9f675d-666c-4d60-a03f-82ade4da58e0)
