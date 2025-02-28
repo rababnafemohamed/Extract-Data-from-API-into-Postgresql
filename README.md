@@ -21,7 +21,8 @@ Create a Cow´s Foot Notation (Information Engineering Notation) a method that r
 - Formed one to too many relationship between Cars table and KMS_Cloud
 - Formed many any to many relationship between Cars and Mileage_logs
 - one to many relationship between Mileage_logs and Internal_Deals
-![image](https://github.com/user-attachments/assets/8d9f675d-666c-4d60-a03f-82ade4da58e0)
+![image](https://github.com/user-attachments/assets/35c18234-9774-466c-a8d0-87506c3bd6c4)
+
 Finally, I **performed data analysis** using **Google Analytics** to answer the following questions:  
 - **How many deals became customers?**  
 - **Which brands are most of the customers interested in?**
