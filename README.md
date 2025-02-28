@@ -28,7 +28,6 @@ Finally, I **performed data analysis** using **Google Analytics** to answer the 
 - **What are the top 5 selling brands for each province?**  
 - **How many kilometers do customers travel on average per month?**
 - ![image](https://github.com/user-attachments/assets/21f5d4d8-ec09-49f9-8813-ac4bf39b93d8)
-
 - **Which community was most visited in November 2024?**  
 
 ---
