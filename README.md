@@ -32,7 +32,9 @@ Finally, I **performed data analysis** using **Google Analytics** to answer the 
 
 - **Which brands are most of the customers interested in?**
   - ![graph_visualiser-1740709397977](https://github.com/user-attachments/assets/a4424739-09d7-4dbd-a26f-ee8a0a46f24b) 
-- **What are the top 5 selling brands for each province?**  
+- **What are the top 5 selling brands for each province?**
+  ![image](https://github.com/user-attachments/assets/f452f70b-aeac-4153-ad99-cfaf759e6908)
+
 - **How many kilometers do customers travel on average per month?**
  ![image](https://github.com/user-attachments/assets/21f5d4d8-ec09-49f9-8813-ac4bf39b93d8)
 - **Which community was most visited in November 2024?**  
