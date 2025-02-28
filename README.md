@@ -3,6 +3,9 @@
 ## **Extracting Data from the API**  
 
 I have created a **Databricks** job pipeline to run **notebooks in parallel** to load data from the API in **JSON format**. The JSON data was then formatted into a readable **DataFrame**.  
+![graph_visualiser-1740709397977](https://github.com/user-attachments/assets/a0a67729-a531-40ba-90d0-602bf49ca383)
+![graph_visualiser-1740709419391](https://github.com/user-attachments/assets/db038cf2-18d2-4f07-9beb-b187cc20345a)
+
 
 I removed **duplicate values** but decided **not to remove all missing values**, as this could affect the final analysis. Additionally, I **renamed columns** for better readability, created **tables in a PostgreSQL database**, and built **data models**. 
 
