@@ -1,4 +1,4 @@
-# **REVEL_DE_Technical-Test**  
+# **ETL**  
 
 ## **Extracting Data from the API**  
 
@@ -36,11 +36,10 @@ Finally, I **performed data analysis** using **Google Analytics** to answer the 
   ![image](https://github.com/user-attachments/assets/f452f70b-aeac-4153-ad99-cfaf759e6908)
 
 - **How many kilometers do customers travel on average per month?**
-- 
+  
  ![image](https://github.com/user-attachments/assets/21f5d4d8-ec09-49f9-8813-ac4bf39b93d8)
-- **Which community was most visited in November 2024?**  
 
----
+
 
 
   
